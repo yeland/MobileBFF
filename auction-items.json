@@ -5,7 +5,7 @@
         "image": "https://yeland.github.io/mobile-bff/001.png",
         "auction-date": "08月16日10:00开拍",
         "starting-price": "3.30万",
-        "deposits": "500"
+        "deposits": "3000"
     },
     {
         "id": "A2",
@@ -13,7 +13,7 @@
         "image": "https://yeland.github.io/mobile-bff/002.jpeg",
         "auction-date": "08月15日10:00开拍",
         "starting-price": "6.50万",
-        "deposits": "1000"
+        "deposits": "5000"
     },
     {
         "id": "A3",
@@ -21,6 +21,6 @@
         "image": "https://yeland.github.io/mobile-bff/003.jpeg",
         "auction-date": "08月18日10:00开拍",
         "starting-price": "5.29万",
-        "deposits": "1000"
+        "deposits": "5000"
     }
 ]
