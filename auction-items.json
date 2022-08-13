@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "A1",
         "name": "翡翠玉佛公吊坠",
         "image": "https://yeland.github.io/mobile-bff/001.png",
         "auction-date": "08月16日10:00开拍",
@@ -8,7 +8,7 @@
         "deposits": "500"
     },
     {
-        "id": 1,
+        "id": "A2",
         "name": "中国玉石雕刻大师 和田玉籽料寻秋挂件",
         "image": "https://yeland.github.io/mobile-bff/002.jpeg",
         "auction-date": "08月15日10:00开拍",
@@ -16,7 +16,7 @@
         "deposits": "1000"
     },
     {
-        "id": 1,
+        "id": "A3",
         "name": "天然冰种A货翡翠宽条手镯",
         "image": "https://yeland.github.io/mobile-bff/003.jpeg",
         "auction-date": "08月18日10:00开拍",
